@@ -1,0 +1,2 @@
+# university_scholarship_manager_mobile
+MPD Exam Requirements
